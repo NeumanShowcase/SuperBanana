@@ -1,0 +1,22 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>Resources/images/player1.png</file>
+	<file>Resources/Sounds/jump.wav</file>
+	<file>Resources/images/flooring1.png</file>
+	<file>Resources/images/player1Right.png</file>
+	<file>Resources/images/GameOn.png</file>
+	<file>Resources/images/stone.png</file>
+	<file>Resources/images/quarterAnim.gif</file>
+	<file>Resources/Sounds/coinpling.wav</file>
+	<file>Resources/images/HUD_RIGHT.png</file>
+	<file>Resources/images/HUD_LEFT.png</file>
+	<file>Resources/images/HUD_TOP.png</file>
+	<file>Resources/images/HUD_BOTTOM.png</file>
+	<file>Resources/Sounds/died.wav</file>
+	<file>Resources/images/dragonBoss.gif</file>
+	<file>Resources/images/fireball.gif</file>
+	<file>Resources/images/gamebackground.jpg</file>
+	<file>Resources/images/player2.gif</file>
+	<file>Resources/images/background_texture1.jpg</file>
+</qresource>
+</RCC>

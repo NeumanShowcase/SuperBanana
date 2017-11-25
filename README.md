@@ -58,4 +58,4 @@ Ljud vid händelser som ger en förstärkt upplevelse av vad som händer.
 
 UML DIAGRAM:
 
-![4247809708-Untitled-Diagram.jpg](https://bitbucket.org/repo/qExeLpE/images/1012558142-4247809708-Untitled-Diagram.jpg)
+![](https://i.imgur.com/Q73IciXg.jpg)
